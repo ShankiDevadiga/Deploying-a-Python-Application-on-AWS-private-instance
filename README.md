@@ -1,4 +1,4 @@
-# Deploying a Python Application on AWS VPC
+# Deploying a Python Application on AWS private instance
 
 This project demonstrates how to deploy a simple Python application on a private subnet server within an AWS VPC. The setup includes:
 
